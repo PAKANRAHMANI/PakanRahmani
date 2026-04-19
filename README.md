@@ -6,7 +6,7 @@ I've had the opportunity to work on financial and trading platforms, designing *
  
 ## 🚀 About Me  
 🔹 Senior .NET Developer & Team Assistant at Charisma Financial Group  
-🔹 Passionate about **Microservices, DDD, CQRS, and Cloud Computing**  
+🔹 Passionate about **Microservices, DDD and CQRS**  
 🔹 Always open to **collaborating on innovative projects**  
  
 ## 🛠 Tech Stack  
